@@ -1,2 +1,2 @@
 # Visual studio 
-<li>Arquivos para pratica de c#</li>
+<li>Archives for practice c#</li>
